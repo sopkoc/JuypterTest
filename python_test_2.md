@@ -1,4 +1,4 @@
-```python
+
 # Python script to print even numbers from 1 to 20
 
 def print_even_numbers():
@@ -6,12 +6,5 @@ def print_even_numbers():
     print("Even numbers from 1 to 20:", even_numbers)
 
 print_even_numbers()
-```
-
-    Even numbers from 1 to 20: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
-    
 
 
-```python
-
-```
